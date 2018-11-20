@@ -13,6 +13,6 @@ dependencies:
   - vega
   - vega_datasets
   - scikit-learn
-  - sicpy
+  - scipy
   - rise
 prefix: /home/alonsolml/miniconda3/envs/mat281_modulo4
