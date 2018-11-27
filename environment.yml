@@ -15,4 +15,3 @@ dependencies:
   - scikit-learn
   - scipy
   - rise
-prefix: /home/alonsolml/miniconda3/envs/mat281_modulo4
